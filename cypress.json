@@ -1,5 +1,7 @@
 {
   "video": false,
+  "videosFolder": "videos",
+  "screenshotsFolder": "screenshots",
   "reporter": "cypress-multi-reporters",
   "reporterOptions": {
     "reporterEnabled": "mochawesome",
