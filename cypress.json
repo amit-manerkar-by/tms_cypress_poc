@@ -1,5 +1,6 @@
 {
   "video": false,
+  "integrationFolder": "cypress/tests",
   "videosFolder": "videos",
   "screenshotsFolder": "screenshots",
   "reporter": "cypress-multi-reporters",
