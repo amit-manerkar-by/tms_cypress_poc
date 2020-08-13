@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://the-internet.herokuapp.com/",
-  "video": true,
+  "video": false,
   "integrationFolder": "cypress/tests",
   "videosFolder": "videos",
   "screenshotsFolder": "screenshots",
