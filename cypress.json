@@ -5,7 +5,6 @@
   "videosFolder": "videos",
   "screenshotsFolder": "screenshots",
   "chromeWebSecurity": false,
-  "experimentalFetchPolyfill": true,
   "reporter": "cypress-multi-reporters",
   "reporterOptions": {
     "reporterEnabled": "mochawesome",
