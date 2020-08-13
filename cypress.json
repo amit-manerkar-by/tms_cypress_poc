@@ -1,8 +1,11 @@
 {
-  "video": false,
+  "baseUrl": "https://the-internet.herokuapp.com/",
+  "video": true,
   "integrationFolder": "cypress/tests",
   "videosFolder": "videos",
   "screenshotsFolder": "screenshots",
+  "chromeWebSecurity": false,
+  "experimentalFetchPolyfill": true,
   "reporter": "cypress-multi-reporters",
   "reporterOptions": {
     "reporterEnabled": "mochawesome",
